@@ -1,0 +1,59 @@
+body {
+text-align: center;
+background-color: #2C3639;
+color: #FAEAB1;
+font-family: ;
+}
+
+img {
+max-width: 100%;
+height: auto;
+
+} 
+
+/*button {
+border-radius: 20px;
+width: 80px;
+height: 50px;
+color: #FAEAB1;
+background-color: black;*/
+
+}
+
+/*a:link, a:visited {
+  background-color: black;
+  color: red;
+  padding: 25px 50px;
+  text-align: center;
+  text-decoration-color: #2C3639;
+  display: inline-block;
+}*/
+
+div button {
+    margin:0 auto;
+    padding: 25px 50px
+}
+
+.tombol-aktif animasi{
+position: absolute;
+padding: 10px 40px;
+border-radius: 10px;
+font-family: 'pacifico' ,cursive;
+font-size: 25px;
+color: #fff;
+text-decoration: none;
+
+}
+
+
+.
+
+
+
+/*background: #2C3639;
+text-align: justify-all;
+color: #FAEAB1;
+display: flex;
+justify-content: center;
+align-items: top;
+height: 100vh;*/
